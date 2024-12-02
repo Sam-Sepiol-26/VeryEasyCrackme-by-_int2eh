@@ -1,0 +1,13 @@
+How I solved "VeryEasyCrackme":
+
+1: Open the VeryEasyCrackme.exe in IDA
+
+2: Locate the main function if not done automatically by IDA
+
+3: Open the decompiled code [Press F5]
+
+4: You can find the password in Plain Text - "YourPass"
+
+
+
+by, 0x00S30
